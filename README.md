@@ -7,7 +7,7 @@ You are a junior data analyst working in the marketing analyst team at Cyclistic
 must approve your recommendations, so they must be backed up with compelling data insights and professional data visualizations.
 
 Five Steps i wil follow to do this capstone : ask, prepare, process, analyze,share, and act
-
+### Steps 
 #### Ask
 Three questions will guide the future marketing program:
 1. How do annual members and casual riders use Cyclistic bikes differently?
