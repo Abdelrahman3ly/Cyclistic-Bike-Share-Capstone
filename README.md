@@ -47,6 +47,6 @@ ride_length_second.
 
 
 ### Tools
-## . #### Python programming languange , load data and then do data preprocessing like remove duplicate , remove null values , rename columns , and add a specific columns that help me more in the step of analysis.
+(## .) #### Python programming languange , load data and then do data preprocessing like remove duplicate , remove null values , rename columns , and add a specific columns that help me more in the step of analysis.
 ## . #### Microsoft Excel , add some specific columns that help me in this scinario and make some calculations.
 ## . #### Microsoft PowerBI , add some measures that help me to draw charts , then make a dashboard that help to solve capstone questions to help decision makers to make better decisions.
